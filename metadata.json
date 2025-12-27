@@ -1,0 +1,7 @@
+{
+  "name": "Apex Construction & Developments",
+  "description": "A premium, professional landing page for a modern construction company featuring a curated portfolio, high-end project showcase, and a smart WhatsApp-integrated checkout system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
